@@ -101,7 +101,7 @@ class GeminiChatbot:
 
 def main():
     # Replace with your actual API key
-    API_KEY = "AIzaSyDJwQsaRRqMjGWSLzCfl4U8fFAdo0wy3I0"
+    API_KEY = "api_key"
     
     # Create and run chatbot
     try:
